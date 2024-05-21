@@ -1,16 +1,21 @@
-# lista_de_tarefas
 
-A new Flutter project.
+<div align="center">
+<img src="https://github.com/StefanSalla/lista-de-tarefas--Flutter/assets/115183424/bec6d92e-b240-4b9d-b21e-8f34bd4cfe25" width="400px" />
+</div>
 
-## Getting Started
+<div align="center">
+<img src="https://github.com/StefanSalla/lista-de-tarefas--Flutter/assets/115183424/82359531-dc84-48d4-bf2d-72d7a7573c85" width="400px" />
+</div>
 
-This project is a starting point for a Flutter application.
+<div align="center">
+<img src="https://github.com/StefanSalla/lista-de-tarefas--Flutter/assets/115183424/8f7ed4c6-8d37-48b5-8d1a-1faa391e5540" width="400px" />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">
+<img src="https://github.com/StefanSalla/lista-de-tarefas--Flutter/assets/115183424/4d3073ef-e502-4a12-bee8-4fbaea676ffd" width="400px" />
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+<img src="https://github.com/StefanSalla/lista-de-tarefas--Flutter/assets/115183424/757f2b5d-1b6a-47a4-a126-a063fd15c6bc" width="400px" />
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
